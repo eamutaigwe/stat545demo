@@ -1,3 +1,3 @@
-# STAT545demo
+# stat545demo
 
 This is just a simple sentence.
